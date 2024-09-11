@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\beke.tamas\\source\\repos\\ZeHa\\ZeHa\\ZeHa.csproj": {}
+    "C:\\Users\\beke.tamas\\Source\\Repos\\beketamas\\ZeHa\\ZeHa\\ZeHa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\beke.tamas\\source\\repos\\ZeHa\\ZeHa\\ZeHa.csproj": {
+    "C:\\Users\\beke.tamas\\Source\\Repos\\beketamas\\ZeHa\\ZeHa\\ZeHa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\beke.tamas\\source\\repos\\ZeHa\\ZeHa\\ZeHa.csproj",
+        "projectUniqueName": "C:\\Users\\beke.tamas\\Source\\Repos\\beketamas\\ZeHa\\ZeHa\\ZeHa.csproj",
         "projectName": "ZeHa",
-        "projectPath": "C:\\Users\\beke.tamas\\source\\repos\\ZeHa\\ZeHa\\ZeHa.csproj",
+        "projectPath": "C:\\Users\\beke.tamas\\Source\\Repos\\beketamas\\ZeHa\\ZeHa\\ZeHa.csproj",
         "packagesPath": "C:\\Users\\beke.tamas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\beke.tamas\\source\\repos\\ZeHa\\ZeHa\\obj\\",
+        "outputPath": "C:\\Users\\beke.tamas\\Source\\Repos\\beketamas\\ZeHa\\ZeHa\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\beke.tamas\\AppData\\Roaming\\NuGet\\NuGet.Config",

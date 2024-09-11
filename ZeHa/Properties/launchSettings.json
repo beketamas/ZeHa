@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ZeHa": {
+      "commandName": "Project",
+      "commandLineArgs": "7"
+    }
+  }
+}

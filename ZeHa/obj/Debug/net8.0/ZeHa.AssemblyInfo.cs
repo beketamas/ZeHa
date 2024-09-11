@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZeHa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5842b5d7f83f1ced7fac4a766164956db780b4c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZeHa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZeHa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

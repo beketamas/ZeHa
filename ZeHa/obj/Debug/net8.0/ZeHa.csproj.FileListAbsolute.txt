@@ -1,0 +1,15 @@
+C:\Users\beke.tamas\Source\Repos\beketamas\ZeHa\ZeHa\bin\Debug\net8.0\ZeHa.exe
+C:\Users\beke.tamas\Source\Repos\beketamas\ZeHa\ZeHa\bin\Debug\net8.0\ZeHa.deps.json
+C:\Users\beke.tamas\Source\Repos\beketamas\ZeHa\ZeHa\bin\Debug\net8.0\ZeHa.runtimeconfig.json
+C:\Users\beke.tamas\Source\Repos\beketamas\ZeHa\ZeHa\bin\Debug\net8.0\ZeHa.dll
+C:\Users\beke.tamas\Source\Repos\beketamas\ZeHa\ZeHa\bin\Debug\net8.0\ZeHa.pdb
+C:\Users\beke.tamas\Source\Repos\beketamas\ZeHa\ZeHa\obj\Debug\net8.0\ZeHa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beke.tamas\Source\Repos\beketamas\ZeHa\ZeHa\obj\Debug\net8.0\ZeHa.AssemblyInfoInputs.cache
+C:\Users\beke.tamas\Source\Repos\beketamas\ZeHa\ZeHa\obj\Debug\net8.0\ZeHa.AssemblyInfo.cs
+C:\Users\beke.tamas\Source\Repos\beketamas\ZeHa\ZeHa\obj\Debug\net8.0\ZeHa.csproj.CoreCompileInputs.cache
+C:\Users\beke.tamas\Source\Repos\beketamas\ZeHa\ZeHa\obj\Debug\net8.0\ZeHa.sourcelink.json
+C:\Users\beke.tamas\Source\Repos\beketamas\ZeHa\ZeHa\obj\Debug\net8.0\ZeHa.dll
+C:\Users\beke.tamas\Source\Repos\beketamas\ZeHa\ZeHa\obj\Debug\net8.0\refint\ZeHa.dll
+C:\Users\beke.tamas\Source\Repos\beketamas\ZeHa\ZeHa\obj\Debug\net8.0\ZeHa.pdb
+C:\Users\beke.tamas\Source\Repos\beketamas\ZeHa\ZeHa\obj\Debug\net8.0\ZeHa.genruntimeconfig.cache
+C:\Users\beke.tamas\Source\Repos\beketamas\ZeHa\ZeHa\obj\Debug\net8.0\ref\ZeHa.dll
